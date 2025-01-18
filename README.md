@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hi, I'm Tom Bracey 👋
+🚀 **Aspiring Data Engineer**
 
-<!--
-**tombracey/tombracey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Tech Stack
+- **Programming:** Python, SQL, Bash
+- **Cloud**: AWS, Terraform
+- **Big Data**: ETL pipelines, Apache Spark
+- **Currently Learning**: Apache Airflow
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Find Me Here
+- [tombracey22@gmail.com](mailto:tombracey22@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/tom-bracey-256337252/)
