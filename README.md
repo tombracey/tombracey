@@ -1,4 +1,4 @@
-## Hi, I'm Tom Bracey 👋
+## Hi, I'm Tom 👋
 🚀 **Aspiring Data Engineer**
 
 ### 🛠 Tech Stack
@@ -9,4 +9,4 @@
 
 ### 📫 Find Me Here
 - [tombracey22@gmail.com](mailto:tombracey22@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/tom-bracey-256337252/)
+<!-- - [LinkedIn](https://www.linkedin.com/in/tom-bracey-256337252/) -->
