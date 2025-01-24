@@ -4,8 +4,7 @@
 ### 🛠 Tech Stack
 - **Programming:** Python, SQL, Bash
 - **Cloud**: AWS, Terraform
-- **Big Data**: ETL pipelines, Apache Spark
-- **Currently Learning**: Apache Airflow
+- **Big Data**: ETL pipelines, Apache Spark, Apache Airflow
 
 ### 📫 Find Me Here
 - [tombracey22@gmail.com](mailto:tombracey22@gmail.com)
