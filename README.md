@@ -1,10 +1,11 @@
 ## Hi, I'm Tom 👋
 🚀 **Aspiring Data Engineer**
 
-### 🛠 Tech Stack
+### 🛠 Stack
 - **Programming:** Python, SQL, Bash
 - **Cloud**: AWS, Terraform
-- **Big Data**: ETL pipelines, Apache Spark, Apache Airflow
+- **Big Data**: ETL pipelines, Apache Kafka
+- **Orchestration**: GitHub Actions, Apache Airflow
 
 ### 📫 Find Me Here
 - [tombracey22@gmail.com](mailto:tombracey22@gmail.com)
