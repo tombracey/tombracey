@@ -1,12 +1,14 @@
 ## Hi, I'm Tom 👋
-🚀 **Aspiring Data Engineer**
+**Data Engineer/Developer**
 
-### 🛠 Stack
-- **Programming:** Python, SQL, Bash
+### Stack
+- **Programming:** Python, Bash
+- **Data**: SQL, ETL pipelines, Apache Kafka, AWS SQS
 - **Cloud**: AWS, Terraform
-- **Big Data**: ETL pipelines, Apache Kafka
-- **Orchestration**: GitHub Actions, Apache Airflow
+- **Orchestration**: GitHub Actions, Apache Airflow, Step Functions
+- **Web Frameworks**: Django, FastAPI
+- **Frontend**: HTML, CSS, JavaScript
 
-### 📫 Find Me Here
+### Contact
 - [tombracey22@gmail.com](mailto:tombracey22@gmail.com)
-<!-- - [LinkedIn](https://www.linkedin.com/in/tom-bracey-256337252/) -->
+[LinkedIn](https://www.linkedin.com/in/tom-bracey-256337252/)
