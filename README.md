@@ -11,4 +11,4 @@
 
 ### Contact
 - [tombracey22@gmail.com](mailto:tombracey22@gmail.com)
-[LinkedIn](https://www.linkedin.com/in/tom-bracey-256337252/)
+- [LinkedIn](https://www.linkedin.com/in/tom-bracey-256337252/)
